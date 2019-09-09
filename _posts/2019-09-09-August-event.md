@@ -3,7 +3,7 @@ layout: post
 title: R-Ladies Manchester at The Federation
 subtitle: A round up of our August event 
 tags: [tags, inside, square, brackets]
-published: false
+published: true
 ---
 
 <p style="text-align:center;"><img src="img/Banner.png" height="75"/></p>
