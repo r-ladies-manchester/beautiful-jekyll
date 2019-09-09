@@ -2,11 +2,11 @@
 layout: post
 title: R-Ladies Manchester at The Federation
 subtitle: A round up of our August event 
-tags: [tags, inside, square, brackets]
+tags: [events]
 published: true
 ---
 
-<p style="text-align:center;"><img src="img/Banner.png" height="75"/></p>
+![banner](img/Banner.png){: .center-block :}
 
 For our first blog post it seemed fitting to tell everyone out there reading this a little bit more about the last event we held. As we ramp up the excitement for the next one, hopefully this post will tell you everything you need to know about what to expect from an R-Ladies event with a mancunian twist. 
 
@@ -16,9 +16,7 @@ As people started to arrive, so did our food for the evening. We've worked with 
 
 Once everybody is fed and watered we always start off with a bit of housekeeping, this time giving a special mention to our sponsors [Socium Recruitment](https://www.sociumrecruitment.com) and metioning a couple of job postings they thought would be great for an R-Lady and of course taking the obligatory group photo before introducing our first speaker, Naomi.
 
-
-<p style="text-align:center;"><img src="img/2019-08-06-group.JPG" height="250"/></p>
-
+![group](img/2019-08-06-group.JPG){: .center-block :}
 
 Naomi took us on a whistle-stop tour of the Shinyverse, building a working Shiny app in simple, easy to follow steps. Her presentation is on [our Github page](https://github.com/rladies/meetup-presentations_manchester), and all her code is linked there too, if you want to have a go yourself. To prove how quick and easy it really is, for her grand finale Naomi challenged us to set a timer and went from blank R script to working Shiny App in **sixteen** seconds. It is no exageration to say that the entire room was stunned and suitably impressed, so much so that during the break, several people whipped out their laptops to give it a go for themselves! 
 
@@ -26,7 +24,7 @@ Once the food had been polished off and drinks refilled, we sat back down to hea
 
 And just like that, it was time to pack up. The evening flew by and everyone left eager to put what they had learned into practise, with a full stomach, new friends and a few stickers in their pockets too! 
 
-<p style="text-align:center;"><img src="img/rladiesmcr-screen.png" width="100"/></p>
+![logo](img/rladiesmcr-screen.png)
 
 If you like the sound of this, come and join us at our next event on October 1st. We're back at The Federation, but this time upstairs at Thoughtworks and we've got Phrances Perez speaking, a discussion, and we'll be kicking off the Hacktober series of events going on around Manchester in the month of October too!
 
