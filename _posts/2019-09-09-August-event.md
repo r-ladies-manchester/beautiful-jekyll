@@ -6,7 +6,7 @@ tags: [events]
 published: true
 ---
 
-![banner](/img/Banner.png =20x100)
+![banner|100x20](/img/Banner.png)
 
 For our first blog post it seemed fitting to tell everyone out there reading this a little bit more about the last event we held. As we ramp up the excitement for the next one, hopefully this post will tell you everything you need to know about what to expect from an R-Ladies event with a mancunian twist. 
 
