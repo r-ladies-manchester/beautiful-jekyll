@@ -24,7 +24,7 @@ Once the food had been polished off and drinks refilled, we sat back down to hea
 
 And just like that, it was time to pack up. The evening flew by and everyone left eager to put what they had learned into practise, with a full stomach, new friends and a few stickers in their pockets too! 
 
-![logo|250x250](/img/rladiesmcr-screen.png =250x)
+![logo|250x250](/img/rladiesmcr-screen.png)
 
 If you like the sound of this, come and join us at our next event on October 1st. We're back at The Federation, but this time upstairs at Thoughtworks and we've got Phrances Perez speaking, a discussion, and we'll be kicking off the Hacktober series of events going on around Manchester in the month of October too!
 
