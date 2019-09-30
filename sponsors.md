@@ -8,4 +8,4 @@ Thanks to you all for your ongoing support, whether that's helping us put on ref
 
 <p style="text-align:center;"><img src="img/Sponsors_singlepage.png"/> </p>
 
-*We are always looking for offers of venues and refreshment sponsorship. If you're a Manchester based business as passionate about gender diversity in the tech scene as we are, use the email link below to get in touch! We happily put your name, logo and website on our Meet-up group, which is 400 members strong, and we tweet about you to our 700 followers too! 
+*We are always looking for offers of venues and refreshment sponsorship. If you're a Manchester based business as passionate about gender diversity in the tech scene as we are, use the email link below to get in touch! We happily put your name, logo and website on our Meet-up group, which is 400 members strong, and we tweet about you to our 700 followers too!*
