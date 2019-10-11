@@ -22,13 +22,13 @@ We would wholeheartedly recommend Open Kitchen for any event in Manchester, thei
 As usual, we did a bit of housekeeping before getting down to the fun stuff, giving a honorable mention to our sponsors [Morson International]() and as always, plugging a couple of their roles that they think would be a great fit for our attendees. We totally forgot to take a group photo - if you have one please send it over - but our great host for the evening Gill did put her head round and snap a quick pic of most of us! 
 
 <p style="text-align:center;">
-  <img src="/img/aug_ellen.jpg"/>
+  <img src="/img/aug-ellen.jpg"/>
 </p>
 
 Our speaker for the evening was the brilliant Phrances Perez, who works at BookingGo as a Data Analyst. Her presentation is on [our Github page](https://github.com/rladies/meetup-presentations_manchester).
 
 <p style="text-align:center;">
-  <img src="/img/Aug_phrances.jpg"/>
+  <img src="/img/Aug_Phrances.jpg"/>
 </p>
 
 Phrances spoke about her important learnings in R, and followed on from our August event by building on our Shiny know-how even more, talking about reactive functions. She also covered the important topic of version control and also some best practises - which I think we can all learn from!  
